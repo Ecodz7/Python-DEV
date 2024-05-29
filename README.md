@@ -2,7 +2,7 @@
 Utilização de Python para desenvolvimento de um aplicativo/sistema/site com funcionalidades de chat online.
 ___________________________________________________________________________________________________________________________
 Using Python to develop an application/system/website with online chat features.
-# Funcionalidades e proeficiências | Features and proficiencies
+# Funcionalidades e proficiências | Features and proficiencies
 -Criação de Sites e Sistemas
 -Frameworks Python
 -Desenvolvimento de um Chat online
